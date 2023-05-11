@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(101, 101, 204);
+    margin: 0 
+}
+h1 {
+    color:blueviolet;
+    padding: 60px
+}
+footer {
+    display: flex;
+    background-color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100% ;
+}
+footer p {
+    color: white
+}
